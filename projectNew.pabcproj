@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project FileVersion="2" Name="projectNew" MainFile="projectNew.pas" OutputFileName="projectNew.exe" OutputDirectory="" ProjectType="ConsoleApp" IncludeDebugInfo="True" GenerateXMLDoc="False" CommandLineArguments="" AppIcon="" DeleteEXE="True" DeletePDB="True" Product="" Company="" Trademark="" Copyright="" Title="" Description="" MajorVersion="0" MinorVersion="0" BuildVersion="0" RevisionVersion="0">
+  <Items>
+    <Item Type="SourceFile" Name="projectNew.pas" Path="projectNew.pas" />
+    <Item Type="SourceFile" Name="Resources.pas" Path="Resources.pas" />
+    <Item Type="SourceFile" Name="Print.pas" Path="Print.pas" />
+    <Item Type="SourceFile" Name="Input.pas" Path="Input.pas" />
+    <Item Type="SourceFile" Name="HomeWin.pas" Path="HomeWin.pas" />
+    <Item Type="SourceFile" Name="Functions.pas" Path="Functions.pas" />
+    <Item Type="SourceFile" Name="SignUpWin.pas" Path="SignUpWin.pas" />
+    <Item Type="SourceFile" Name="NotificationWin.pas" Path="NotificationWin.pas" />
+    <Item Type="SourceFile" Name="SignInWin.pas" Path="SignInWin.pas" />
+    <Item Type="SourceFile" Name="MenuWin.pas" Path="MenuWin.pas" />
+    <Item Type="SourceFile" Name="Cards.pas" Path="Cards.pas" />
+    <Item Type="SourceFile" Name="Search.pas" Path="Search.pas" />
+    <Item Type="SourceFile" Name="TableWin.pas" Path="TableWin.pas" />
+    <Item Type="SourceFile" Name="DateTableWin.pas" Path="DateTableWin.pas" />
+    <Item Type="SourceFile" Name="DateVisitWin.pas" Path="DateVisitWin.pas" />
+    <Item Type="Reference" AssemblyName="System" FullAssemblyName="System.dll" />
+  </Items>
+</Project>
